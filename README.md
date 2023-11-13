@@ -7,4 +7,4 @@ Deployable on linux php hosts.
 قابلیت دیپلوی در هاست های php.  
 ## Install
 Change needed variables from index.php file and set webhook url as below:  
-`(https://api.telegram.org/bot[TOKEN]/setwebhook?url=[WEBHOOK HTTPS URL])https://api.telegram.org/bot[TOKEN]/setwebhook?url=[WEBHOOK HTTPS URL]` 
+`https://api.telegram.org/bot[TOKEN]/setwebhook?url=[WEBHOOK HTTPS URL])https://api.telegram.org/bot[TOKEN]/setwebhook?url=[WEBHOOK HTTPS URL]` 
